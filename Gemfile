@@ -8,6 +8,10 @@ source "https://rubygems.org"
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 
+##############
+gem "font-awesome-rails"
+##############
+
 # [ND] Commented for github pages
 # gem "jekyll", "~> 4.0.0"
 
